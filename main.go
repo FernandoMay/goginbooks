@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/FernandoMay/goginbooks/controllers"
 	"github.com/FernandoMay/goginbooks/models"
+
+	"github.com/FernandoMay/goginbooks/controllers"
 	"github.com/gin-gonic/gin"
 )
 
